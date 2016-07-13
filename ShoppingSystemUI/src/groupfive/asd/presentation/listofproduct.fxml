@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="628.0" prefWidth="719.0"
+	xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="groupfive.asd.controller.ListOfProductController">
+	<children>
+		<ListView fx:id="listid" editable="true" layoutX="45.0"
+			layoutY="31.0" prefHeight="482.0" prefWidth="438.0" />
+	</children>
+</AnchorPane>
